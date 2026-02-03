@@ -4,7 +4,7 @@ Collection of my Home Assistant customizations, cards, and experiments.
 
 ## Contents
 
-- `Blood-Sugar-Card` — custom Lovelace card for Nightscout glucose values with trend arrow, dynamic color, minutes since last reading, and sparkline.
+- `Blood-Sugar-Card` — custom Lovelace card for Nightscout glucose values with trend arrow, dynamic color, minutes since last reading, and sparkline. Note: HACS requires a single-card repo, so this folder is not directly HACS-installable as-is.
 
 ## Quick Install (Local)
 
