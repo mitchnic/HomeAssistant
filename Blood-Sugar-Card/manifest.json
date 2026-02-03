@@ -1,0 +1,7 @@
+{
+  "name": "Blood Sugar Card",
+  "version": "1.0.0",
+  "description": "Custom Lovelace card for Nightscout glucose values with trend and sparkline.",
+  "type": "module",
+  "documentation": "https://github.com/mitchnic/HomeAssistant/tree/main/Blood-Sugar-Card"
+}
